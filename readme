@@ -1,0 +1,2 @@
+1. Make sure "develop" is empty, so that when create a new branch based on "develop", can always get a clean one.
+2. Each branch is an individual branch. E.g., the branch called "linked_list" is independent from the one called "heap". These two branch are different from each other. BUT EACH DATA STRUCUTRE CODE EXISTS AS A INDIVIDUAL BRANCH. NO RELATIONSHIP TO "develop" branch.
